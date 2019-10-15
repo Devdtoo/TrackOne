@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "610024587838",
+    "firebase_url": "https://trackmeone-c8312.firebaseio.com",
+    "project_id": "trackmeone-c8312",
+    "storage_bucket": "trackmeone-c8312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610024587838:android:3230f9b3520cb160",
+        "android_client_info": {
+          "package_name": "com.example.trackone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610024587838-anj26ah2g9fap35r43kap8bpm2jqe2c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trackone",
+            "certificate_hash": "970eda22f7cfa9836c795964f443e2b5e2fa5501"
+          }
+        },
+        {
+          "client_id": "610024587838-117h2avf2m0kqdr6j8uti74go1o7cedo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4yQ0Wxxg2otc0XMgbT5T9CnuBCvWytRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610024587838-117h2avf2m0kqdr6j8uti74go1o7cedo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

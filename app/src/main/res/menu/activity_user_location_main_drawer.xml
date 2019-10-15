@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_join_circle"
+            android:title="@string/menu_join_circle" />
+        <item
+            android:id="@+id/nav_my_circle"
+            android:title="@string/menu_my_circle" />
+        <item
+            android:id="@+id/nav_joined_circles"
+            android:title="@string/menu_joined_circles" />
+        <item
+            android:id="@+id/nav_share_location"
+            android:title="@string/menu_share_location" />
+        <item
+            android:id="@+id/nav_stop_sharing_location"
+            android:title="@string/menu_stop_sharing_location" />
+        <item
+            android:id="@+id/nav_share_location_to_whatsapp_msg"
+            android:title="@string/menu_share_location_to_whatsapp_msg" />
+        <item
+            android:id="@+id/nav_invite_members"
+            android:title="@string/menu_invite_members" />
+        <item
+            android:id="@+id/nav_signOut"
+            android:title="@string/menu_sign_out" />
+    </group>
+
+    <!--<item android:title="system">-->
+    <!--<menu>-->
+    <!--<item-->
+    <!--android:id="@+id/nav_share"-->
+    <!--android:icon="@drawable/ic_menu_share"-->
+    <!--android:title="@string/menu_share" />-->
+    <!--<item-->
+    <!--android:id="@+id/nav_send"-->
+    <!--android:icon="@drawable/ic_menu_send"-->
+    <!--android:title="@string/menu_send" />-->
+    <!--</menu>-->
+    <!--</item>-->
+
+</menu>
